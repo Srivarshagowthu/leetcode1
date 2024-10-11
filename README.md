@@ -35,8 +35,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Srivarshagowthu/leetcode1/tree/master/0011-container-with-most-water) |
+| [0202-happy-number](https://github.com/Srivarshagowthu/leetcode1/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Srivarshagowthu/leetcode1/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Srivarshagowthu/leetcode1/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Srivarshagowthu/leetcode1/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
