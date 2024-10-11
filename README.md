@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Srivarshagowthu/leetcode1/tree/master/0021-merge-two-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/Srivarshagowthu/leetcode1/tree/master/0092-reverse-linked-list-ii) |
 ## Recursion
 |  |
 | ------- |
