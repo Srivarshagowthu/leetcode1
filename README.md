@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Srivarshagowthu/leetcode1/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Srivarshagowthu/leetcode1/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Srivarshagowthu/leetcode1/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/Srivarshagowthu/leetcode1/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Srivarshagowthu/leetcode1/tree/master/0202-happy-number) |
 ## Greedy
 |  |
